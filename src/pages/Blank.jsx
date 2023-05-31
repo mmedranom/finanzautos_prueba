@@ -21,7 +21,7 @@ const Blank = ({tableContent}) => {
                     <div class="col-3 bg-warning-subtle">
                         Calificador de riesgo
                     </div>
-                    <div class="col-3 bg-warning-subtle">
+                    <div class="col-1 bg-warning-subtle">
                         Tipo de riesgo
                     </div>
                     <div class="col-3 bg-warning-subtle">
