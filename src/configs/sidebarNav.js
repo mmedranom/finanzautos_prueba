@@ -10,6 +10,12 @@ const sidebarNav = [
         section: 'Matriz de riesgo',
         icon: <i className='bx bx-receipt' ></i>,
         text: 'Matriz'
+    },
+    {
+        link: '/pdf',
+        section: 'PDF viwer',
+        icon: <i className='bx bx-line-chart-down' ></i>,
+        text: 'PDF viwer'
     }
 ]
 

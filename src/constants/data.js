@@ -4,6 +4,7 @@ const data = {
     dataTable: [
         {name: "Empresa 1",
         sec: "Gastronomia",
+        description: "Procafecol S.A. nace en 2002 con el objetivo de generar negocios de valor agregado para los caficultores y su marca Juan Valdez® que cuenta con cuatro líneas de negocio: Tiendas especializadas, grandes superficies, canal institucional y el portal e-commerce. Nuestra relación con los caficultores colombianos es por varias vías: la primera, es el reconocimiento a la calidad de su café mediante el pago de una prima por calidad; la segunda, es el posicionamiento del café de Colombia en el mundo; y la tercera, es el compromiso permanente de generar valor al Fondo Nacional del Café (FoNC) para la generación de bienes públicos y los proyectos de Sostenibilidad en Acción® de la Federación de Cafeteros de Colombia. A lo largo de diez años y con importantes inversiones, logramos conformar un equipo sinérgico con conocimiento y experiencia; tenemos más de 300 tiendas operando en Colombia y más de 100 en el mundo, siendo líderes en la categoría de grandes superficies. El Café Premium Colombiano Juan Valdez nos posiciona como la marca más reconocida y admirada en nuestro país, consolidando nuestro modelo de expansión a nuevos mercados en el mundo.",
         risk: "Medio (61%)",
         type: "tipo 1",
         class: "40%",
@@ -12,6 +13,8 @@ const data = {
         },
         {name: "Empresa 2",
         sec: "Ecommerce",
+        description: "Procafecol S.A. nace en 2002 con el objetivo de generar negocios de valor agregado para los caficultores y su marca Juan Valdez® que cuenta con cuatro líneas de negocio: Tiendas especializadas, grandes superficies, canal institucional y el portal e-commerce. Nuestra relación con los caficultores colombianos es por varias vías: la primera, es el reconocimiento a la calidad de su café mediante el pago de una prima por calidad; la segunda, es el posicionamiento del café de Colombia en el mundo; y la tercera, es el compromiso permanente de generar valor al Fondo Nacional del Café (FoNC) para la generación de bienes públicos y los proyectos de Sostenibilidad en Acción® de la Federación de Cafeteros de Colombia. A lo largo de diez años y con importantes inversiones, logramos conformar un equipo sinérgico con conocimiento y experiencia; tenemos más de 300 tiendas operando en Colombia y más de 100 en el mundo, siendo líderes en la categoría de grandes superficies. El Café Premium Colombiano Juan Valdez nos posiciona como la marca más reconocida y admirada en nuestro país, consolidando nuestro modelo de expansión a nuevos mercados en el mundo.",
+
         risk: "Bajo (32%)",
         type: "tipo 1",
         class: "65%",
@@ -20,6 +23,8 @@ const data = {
         },
         {name: "Empresa 3",
         sec: "Gastronomia",
+        description: "Procafecol S.A. nace en 2002 con el objetivo de generar negocios de valor agregado para los caficultores y su marca Juan Valdez® que cuenta con cuatro líneas de negocio: Tiendas especializadas, grandes superficies, canal institucional y el portal e-commerce. Nuestra relación con los caficultores colombianos es por varias vías: la primera, es el reconocimiento a la calidad de su café mediante el pago de una prima por calidad; la segunda, es el posicionamiento del café de Colombia en el mundo; y la tercera, es el compromiso permanente de generar valor al Fondo Nacional del Café (FoNC) para la generación de bienes públicos y los proyectos de Sostenibilidad en Acción® de la Federación de Cafeteros de Colombia. A lo largo de diez años y con importantes inversiones, logramos conformar un equipo sinérgico con conocimiento y experiencia; tenemos más de 300 tiendas operando en Colombia y más de 100 en el mundo, siendo líderes en la categoría de grandes superficies. El Café Premium Colombiano Juan Valdez nos posiciona como la marca más reconocida y admirada en nuestro país, consolidando nuestro modelo de expansión a nuevos mercados en el mundo.",
+
         risk: "Bajo (23%)",
         type: "tipo 1",
         class: "71%",
@@ -28,6 +33,8 @@ const data = {
         },
         {name: "Empresa 4",
         sec: "Entretenimiento",
+        description: "Procafecol S.A. nace en 2002 con el objetivo de generar negocios de valor agregado para los caficultores y su marca Juan Valdez® que cuenta con cuatro líneas de negocio: Tiendas especializadas, grandes superficies, canal institucional y el portal e-commerce. Nuestra relación con los caficultores colombianos es por varias vías: la primera, es el reconocimiento a la calidad de su café mediante el pago de una prima por calidad; la segunda, es el posicionamiento del café de Colombia en el mundo; y la tercera, es el compromiso permanente de generar valor al Fondo Nacional del Café (FoNC) para la generación de bienes públicos y los proyectos de Sostenibilidad en Acción® de la Federación de Cafeteros de Colombia. A lo largo de diez años y con importantes inversiones, logramos conformar un equipo sinérgico con conocimiento y experiencia; tenemos más de 300 tiendas operando en Colombia y más de 100 en el mundo, siendo líderes en la categoría de grandes superficies. El Café Premium Colombiano Juan Valdez nos posiciona como la marca más reconocida y admirada en nuestro país, consolidando nuestro modelo de expansión a nuevos mercados en el mundo.",
+
         type: "tipo 1",
         risk: "Alto (87%)",
         class: "12%",
@@ -36,6 +43,8 @@ const data = {
         },
         {name: "Empresa 5",
         sec: "Deporte",
+        description: "Procafecol S.A. nace en 2002 con el objetivo de generar negocios de valor agregado para los caficultores y su marca Juan Valdez® que cuenta con cuatro líneas de negocio: Tiendas especializadas, grandes superficies, canal institucional y el portal e-commerce. Nuestra relación con los caficultores colombianos es por varias vías: la primera, es el reconocimiento a la calidad de su café mediante el pago de una prima por calidad; la segunda, es el posicionamiento del café de Colombia en el mundo; y la tercera, es el compromiso permanente de generar valor al Fondo Nacional del Café (FoNC) para la generación de bienes públicos y los proyectos de Sostenibilidad en Acción® de la Federación de Cafeteros de Colombia. A lo largo de diez años y con importantes inversiones, logramos conformar un equipo sinérgico con conocimiento y experiencia; tenemos más de 300 tiendas operando en Colombia y más de 100 en el mundo, siendo líderes en la categoría de grandes superficies. El Café Premium Colombiano Juan Valdez nos posiciona como la marca más reconocida y admirada en nuestro país, consolidando nuestro modelo de expansión a nuevos mercados en el mundo.",
+
         risk: "Medio (55%)",
         type: "tipo 1",
         class: "37%",
