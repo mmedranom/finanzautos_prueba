@@ -1,0 +1,11 @@
+@use '../scss/abstracts/' as *;
+@use 'sass:math';
+
+.table__container {
+    width: 80%;
+    //display: flex;
+
+    .col {
+        background-color: danger;
+    }
+} 
