@@ -12,19 +12,19 @@ const Blank = ({tableContent}) => {
         <div>
             <div className="table__container container text-center">
                 <div className='row'>
-                    <div class="col-3 bg-warning-subtle" >
+                    <div class="col-3 text-light  bg-warning" >
                         Nombre
                     </div>
-                    <div class="col-2 bg-warning-subtle">
+                    <div class="col-2 text-light  bg-warning">
                         Sector
                     </div>
-                    <div class="col-3 bg-warning-subtle">
+                    <div class="col-3 text-light  bg-warning">
                         Calificador de riesgo
                     </div>
-                    <div class="col-1 bg-warning-subtle">
-                        Tipo de riesgo
+                    <div class="col-1 text-light  bg-warning">
+                        Tipo
                     </div>
-                    <div class="col-3 bg-warning-subtle">
+                    <div class="col-3 text-light  bg-warning">
                         Calificacion
                     </div>
                 </div>
